@@ -5,3 +5,10 @@
   place-content: center;
   min-height: 100vh;
 }
+
+body {
+
+  background-color: #8B4513;
+  color: white;
+  margin: 0;
+}
