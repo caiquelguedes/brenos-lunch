@@ -4,7 +4,7 @@ export default function Cardapio(){
 
     return (
         <div>
-            
+            Menu
         </div>
     )
 }

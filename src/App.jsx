@@ -4,11 +4,11 @@ import './App.css'
 function App() {
  
   return (
-    <>
-      <div className='App'>
-        <h1>Breno's lunch - Fast, mas não Furious!</h1>
+    
+      <div className="app">
+        Breno's lunch - Fast, mas não Furious!
         </div>
-    </>
+    
   )
 }
 
