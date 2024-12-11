@@ -1,12 +1,13 @@
 
 import './App.css'
+import Cardapio from './Cardapio'
 
 function App() {
  
   return (
     
       <div className="app">
-        Breno's lunch - Fast, mas não Furious!
+        <Cardapio/>
         </div>
     
   )
