@@ -13,12 +13,12 @@ function App() {
       <div className="app">
         <Cardapio>
         {
-        comidas.map(comida=>{
-          return (
-            <Comidas nome= {comida.nome} descricao = {comida.descricao}  preco = {comida.preco}/>
-          ) 
-        }
-      )
+          comidas.map(comida=>{
+            return (
+                <Comidas nome= {comida.nome} descricao = {comida.descricao}  preco = {comida.preco}/>
+              ) 
+            }
+          )
         }
         </Cardapio>
         </div>
