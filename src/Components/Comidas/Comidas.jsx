@@ -1,7 +1,7 @@
 import React from "react";
 
 
-export default function Comidas({ nome = "Em breve...", preco = " ", descricao = " "}){
+export default function Comidas({ nome, preco, descricao }){
     
     return (
         <div className="refeicao">
