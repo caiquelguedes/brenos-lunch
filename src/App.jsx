@@ -18,7 +18,8 @@ function App() {
   return (
     
       <div className="app">
-        <Cardapio>
+        <h1>Cardápio</h1>
+        <Cardapio nome="menu"> 
         {
           comidas.map(comida=>{
             return (
